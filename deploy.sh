@@ -27,4 +27,5 @@ else
 fi
 
 echo "> $APPLICATION_JAR 배포"
+echo `pwd`
 nohup java -jar $APPLICATION_JAR > /dev/null 2> /dev/null < /dev/null &
