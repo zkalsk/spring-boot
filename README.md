@@ -1,3 +1,3 @@
 #test readme file
 
-> 1. Jenkins  TEST(code deploy trouble shoot/latency)
+> 1. Jenkins  TEST(slack test/nodejs)
